@@ -1,4 +1,4 @@
-# ATmega8 Potentiometer Controller
+# Reverse engineering untuk panel EMU X-board 
 
 Firmware AVR-GCC untuk **ATmega8** yang membaca:
 
